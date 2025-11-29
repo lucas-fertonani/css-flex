@@ -25,7 +25,10 @@
     third: column -> He transforms your element in a column
     */
 
-    /*flex-shrink: 1; -> is to squeeze the elements
+    /*flex-shrink: 1; -> is to uncrease the elements
+    /*flex-grow: 1; -> is to increase the element while increase the screen
+    /* justify-self and align-self -> this positione unique element in the website
+    
 
 
 /* } */
